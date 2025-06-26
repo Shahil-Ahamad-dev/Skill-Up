@@ -1,10 +1,6 @@
 # 🧠 Backend Developer Skill-Up Plan (2 Months)
 
-Level up your backend skills with this structured 8-week roadmap. Each week covers essential topics, hands-on experience, and a mini project.
-
----
-
-## 📅 Week-by-Week Breakdown
+Level up your backend skills with this structured 8-week roadmap. Each week covers essential topics, and my experience through my progress journey.
 
 ### 🗂️ Week 1: Git & JavaScript Core
 
