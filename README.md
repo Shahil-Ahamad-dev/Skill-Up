@@ -1,75 +1,36 @@
-# 🧠 Backend Developer Skill-Up Plan (2 Months)
+# 🛠️ Backend Developer Skill-Up Plan (June 22 – August 16, 2025)
 
-Level up your backend skills with this structured 8-week roadmap. Each week covers essential topics, and my experience through my progress journey.
+Welcome to my **2-month backend development journey**! I'm committed to building strong fundamentals in modern backend technologies, software architecture, and DevOps practices.
 
-### 🗂️ Week 1: Git & JavaScript Core
-
-#### ✅ Topics:
-- Git: Staging, Committing, Branching, Merging, Pull Requests, Stashing
-- JavaScript: Scope, Hoisting, Sync vs Async, Destructuring
-- Data Structures: Arrays, Strings, Objects, Map, Set, Date & Time
-
----
-
-### 🧰 Week 2: TypeScript Foundations
-
-#### ✅ Topics:
-- TypeScript Types: Number, String, Array, Record
-- Interfaces, Generics: `Pick`, `Partial`, `Omit`
-- Object-Oriented Programming (OOP)
-- Design Principles: SOLID, Singleton, Dependency Injection
+| ✅ Week | 📅 Start Date | 🧠 Main Topic       | 📚 Subtopics                                                                                 | 📌 Status    | 🔗 Document Link     |
+|--------|----------------|---------------------|----------------------------------------------------------------------------------------------|--------------|-----------------------|
+| Week 1 | 6/22/2025      | **Git & GitHub**     | Staging, Committing, Branching, Merging, Stashing, Pull Requests                            | ✅ COMPLETED | [Document Link](https://word.cloud.microsoft/open/onedrive/?docId=6C44E8339A517020%21s035bd0a6301246919a8be1c13815ffbe&driveId=6C44E8339A517020)     |
+| Week 2 | 6/29/2025      | **JavaScript Basics** | Programming Basics, Scope, Hoisting, Sync/Async, Spread/Destructuring, String Methods       | ⏳ TO DO     |                       |
+| Week 3 | 7/6/2025       | **JS Data Structures**| Arrays (map, filter, reduce, etc), Objects (keys, entries, deep vs shallow), Date, Map, Set | ⏳ TO DO     |                       |
+| Week 4 | 7/13/2025      | **TypeScript**        | Types, Generics (Pick, Partial, Omit), Interfaces, OOP, SOLID, DI, Singleton, Abstraction    | ⏳ TO DO     |                       |
+| Week 5 | 7/20/2025      | **NodeJS**            | fs, http, events, streams, TS setup, Design Principles (DRY, WET, Coupling, Cohesion)       | ⏳ TO DO     |                       |
+| Week 6 | 7/27/2025      | **ExpressJS**         | MVC, Middleware, Validation, Logging, Error Handling, Status Codes, Helmet, Security        | ⏳ TO DO     |                       |
+| Week 7 | 8/3/2025       | **API & Auth**        | REST, GraphQL, Apollo Server, Auth0, RBAC, ABAC                                              | ⏳ TO DO     |                       |
+| Week 8 | 8/10/2025      | **Database & DevOps** | MySQL, Prisma, MongoDB, Redis, AWS (S3, SES, SNS, SQS, Lambda), Docker, Testing, Deployment | ⏳ TO DO     |                       |
 
 ---
 
-### ⚙️ Week 3: Node.js Deep Dive
-
-#### ✅ Topics:
-- Core Modules: `fs`, `http`, `event`, `stream`
-- Setting up a Node.js project with TypeScript
-- Middleware patterns and error handling
-
----
-
-### 🚏 Week 4: Express.js + MVC Architecture
-
-#### ✅ Topics:
-- Express MVC Pattern, Middlewares, Logging
-- Input Validation, Error Handling, Status Codes
-- Security: Helmet, XSS, CSRF, HSTS
+## 🧩 Progress Tracking
+- [x] Week 1 – Git fundamentals ✅
+- [ ] Week 2 – JavaScript Basics
+- [ ] Week 3 – JS Data Structures
+- [ ] Week 4 – TypeScript & OOP
+- [ ] Week 5 – NodeJS Core
+- [ ] Week 6 – ExpressJS & Security
+- [ ] Week 7 – API, Auth & GraphQL
+- [ ] Week 8 – Databases, DevOps & Deployment
 
 ---
 
-### 🔐 Week 5: APIs & Authentication
+## 📂 About This Repo
 
-#### ✅ Topics:
-- REST API vs GraphQL API
-- Apollo Server Basics
-- Auth Systems: RBAC, ABAC, Auth0 Integration
+This repository contains:
+- Weekly notes & code samples
+- Concepts breakdown & best practices
 ---
-
-### 🛢️ Week 6: Databases
-
-#### ✅ Topics:
-- SQL with MySQL + Prisma ORM
-- NoSQL with MongoDB
-- Redis Caching
-
----
-
-### ☁️ Week 7: DevOps & Cloud
-
-#### ✅ Topics:
-- AWS Services: S3, SES, SNS, SQS, Lambda
-- CI/CD: AWS CodeBuild, CodePipeline
-- Docker: Containerization Basics
-
----
-
-### ✅ Week 8: Testing & Deployment
-
-#### ✅ Topics:
-- Testing: Unit, Integration (Jest, Supertest), E2E (Cypress)
-- Folder Structure Best Practices
-- System Design: Load Balancing, Caching, DB Scaling
-- Deployment using Docker + CI/CD
 
