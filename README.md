@@ -13,9 +13,6 @@ Level up your backend skills with this structured 8-week roadmap. Each week cove
 - JavaScript: Scope, Hoisting, Sync vs Async, Destructuring
 - Data Structures: Arrays, Strings, Objects, Map, Set, Date & Time
 
-#### 💡 Mini Project:
-- **CLI GitHub Issue Fetcher** using Node.js
-
 ---
 
 ### 🧰 Week 2: TypeScript Foundations
@@ -26,20 +23,14 @@ Level up your backend skills with this structured 8-week roadmap. Each week cove
 - Object-Oriented Programming (OOP)
 - Design Principles: SOLID, Singleton, Dependency Injection
 
-#### 💡 Mini Project:
-- **Todo App** with TypeScript interfaces & generics
-
 ---
 
 ### ⚙️ Week 3: Node.js Deep Dive
 
 #### ✅ Topics:
 - Core Modules: `fs`, `http`, `event`, `stream`
-- Setting up Node.js project with TypeScript
+- Setting up a Node.js project with TypeScript
 - Middleware patterns and error handling
-
-#### 💡 Mini Project:
-- **File Upload & Stream Processor**
 
 ---
 
@@ -50,9 +41,6 @@ Level up your backend skills with this structured 8-week roadmap. Each week cove
 - Input Validation, Error Handling, Status Codes
 - Security: Helmet, XSS, CSRF, HSTS
 
-#### 💡 Mini Project:
-- **RESTful Blog API** with validation, logging, and security
-
 ---
 
 ### 🔐 Week 5: APIs & Authentication
@@ -61,10 +49,6 @@ Level up your backend skills with this structured 8-week roadmap. Each week cove
 - REST API vs GraphQL API
 - Apollo Server Basics
 - Auth Systems: RBAC, ABAC, Auth0 Integration
-
-#### 💡 Mini Project:
-- **User Authentication System** using JWT + GraphQL
-
 ---
 
 ### 🛢️ Week 6: Databases
@@ -74,9 +58,6 @@ Level up your backend skills with this structured 8-week roadmap. Each week cove
 - NoSQL with MongoDB
 - Redis Caching
 
-#### 💡 Mini Project:
-- **Inventory Management App** with Prisma & Redis
-
 ---
 
 ### ☁️ Week 7: DevOps & Cloud
@@ -85,9 +66,6 @@ Level up your backend skills with this structured 8-week roadmap. Each week cove
 - AWS Services: S3, SES, SNS, SQS, Lambda
 - CI/CD: AWS CodeBuild, CodePipeline
 - Docker: Containerization Basics
-
-#### 💡 Mini Project:
-- **Dockerized Full-Stack App** with S3 Integration
 
 ---
 
@@ -99,18 +77,3 @@ Level up your backend skills with this structured 8-week roadmap. Each week cove
 - System Design: Load Balancing, Caching, DB Scaling
 - Deployment using Docker + CI/CD
 
-#### 💡 Final Project:
-- **Production-Ready Backend App** (API + DB + Auth + Tests)
-
----
-
-## 📌 Tip:
-Document each mini-project on GitHub with:
-- Clear README
-- Tech stack used
-- API Documentation (Postman or Swagger)
-- Deployment link (if applicable)
-
----
-
-Happy Building! 🚀
